@@ -1,10 +1,11 @@
 /**
- * Created with JetBrains PhpStorm.
- * User: Vitaly
- * Date: 06.06.13
- * Time: 20:22
+ * Created with Linux termital.
+ * User: User
+ * Date: 20.11.15
+ * Time: 07:79
  * To change this template use File | Settings | File Templates.
  */
+
 function inArray(needle, haystack) {
     var length = haystack.length;
     for(var i = 0; i < length; i++) {
@@ -67,7 +68,6 @@ $(document).ready(function() {
 
 /**
  * Отправка форм.
- *
  */
 
 function feedback(vars) {

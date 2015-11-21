@@ -164,7 +164,7 @@
 			position: 		'top-right',
 			glue: 			'after',
 			theme: 			'default',
-			themeState: 	'',//'highlight',
+			themeState: 		'',//'highlight',
 			corners: 		'10px',
 			check: 			250,
 			life: 			3000,
